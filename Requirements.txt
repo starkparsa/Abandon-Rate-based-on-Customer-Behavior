@@ -46,6 +46,7 @@ gradio==4.16.0
 
 # MLOps
 mlflow==2.9.2
+optuna==3.5.0
 
 # Regular Expressions
 regex==2023.12.25
