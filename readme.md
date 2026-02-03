@@ -84,25 +84,6 @@ This project frames cart abandonment as a **binary classification problem**, usi
 
 ---
 
-## Current Status
-- [x] Dataset cleaned and schema finalized  
-- [x] Target variable locked  
-- [x] Leakage risks mitigated  
-- [x] Feature engineering strategy documented  
-
----
-
-## Next Steps (Planned)
-- Implement **baseline classification models**
-- Optimize using **balanced precision–recall objective (Optuna)**
-- Address **class imbalance**
-- Add **MLflow experiment tracking**
-- Build **FastAPI inference endpoint**
-- Create **executive-friendly explanations (SHAP)**
-- Containerize and prepare for **deployment**
-
----
-
 ## Why This Project Matters
 This project mirrors **real-world e-commerce ML systems**, emphasizing:
 - Business-driven metrics
@@ -112,9 +93,6 @@ This project mirrors **real-world e-commerce ML systems**, emphasizing:
 
 ---
 
-📌 *Daily progress is intentionally documented to reflect an industry-style ML workflow rather than a notebook-only project.*
-
----
 
 ## Phase 4 — Evaluation Framing & Metric Strategy (Completed)
 
